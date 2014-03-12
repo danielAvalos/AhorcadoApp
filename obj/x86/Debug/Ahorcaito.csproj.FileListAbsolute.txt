@@ -1,0 +1,26 @@
+C:\Documents and Settings\daniel\My Documents\Visual Studio 2010\Projects\Ahorcaito\Ahorcaito\bin\Debug\Ahorcaito.exe
+C:\Documents and Settings\daniel\My Documents\Visual Studio 2010\Projects\Ahorcaito\Ahorcaito\bin\Debug\Ahorcaito.pdb
+C:\Documents and Settings\daniel\My Documents\Visual Studio 2010\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\daniel\My Documents\Visual Studio 2010\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.Form1.resources
+C:\Documents and Settings\daniel\My Documents\Visual Studio 2010\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.Properties.Resources.resources
+C:\Documents and Settings\daniel\My Documents\Visual Studio 2010\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\daniel\My Documents\Visual Studio 2010\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\daniel\My Documents\Visual Studio 2010\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.exe
+C:\Documents and Settings\daniel\My Documents\Visual Studio 2010\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.pdb
+D:\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.exe
+D:\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.pdb
+D:\Projects\Ahorcaito\Ahorcaito\bin\Debug\Ahorcaito.exe
+D:\Projects\Ahorcaito\Ahorcaito\bin\Debug\Ahorcaito.pdb
+D:\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.Form1.resources
+D:\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.Properties.Resources.resources
+D:\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Ahorcaito\Ahorcaito\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dani\Desktop\Programas\C#\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.exe
+C:\Users\dani\Desktop\Programas\C#\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.pdb
+C:\Users\dani\Desktop\Programas\C#\Ahorcaito\Ahorcaito\bin\Debug\Ahorcaito.exe
+C:\Users\dani\Desktop\Programas\C#\Ahorcaito\Ahorcaito\bin\Debug\Ahorcaito.pdb
+C:\Users\dani\Desktop\Programas\C#\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.csprojResolveAssemblyReference.cache
+C:\Users\dani\Desktop\Programas\C#\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.principal.resources
+C:\Users\dani\Desktop\Programas\C#\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.Properties.Resources.resources
+C:\Users\dani\Desktop\Programas\C#\Ahorcaito\Ahorcaito\obj\x86\Debug\Ahorcaito.csproj.GenerateResource.Cache
